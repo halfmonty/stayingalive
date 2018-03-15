@@ -1,0 +1,13 @@
+C:\Users\halfmonty\Documents\Visual Studio 2017\Projects\StayingAlive\StayingAlive\bin\Release\Media\stayingalive.mp3
+C:\Users\halfmonty\Documents\Visual Studio 2017\Projects\StayingAlive\StayingAlive\bin\Release\StayingAlive.exe.config
+C:\Users\halfmonty\Documents\Visual Studio 2017\Projects\StayingAlive\StayingAlive\bin\Release\StayingAlive.exe
+C:\Users\halfmonty\Documents\Visual Studio 2017\Projects\StayingAlive\StayingAlive\bin\Release\StayingAlive.pdb
+C:\Users\halfmonty\Documents\Visual Studio 2017\Projects\StayingAlive\StayingAlive\obj\Release\Interop.WMPLib.dll
+C:\Users\halfmonty\Documents\Visual Studio 2017\Projects\StayingAlive\StayingAlive\obj\Release\StayingAlive.csproj.ResolveComReference.cache
+C:\Users\halfmonty\Documents\Visual Studio 2017\Projects\StayingAlive\StayingAlive\obj\Release\StayingAlive.Form1.resources
+C:\Users\halfmonty\Documents\Visual Studio 2017\Projects\StayingAlive\StayingAlive\obj\Release\StayingAlive.Properties.Resources.resources
+C:\Users\halfmonty\Documents\Visual Studio 2017\Projects\StayingAlive\StayingAlive\obj\Release\StayingAlive.csproj.GenerateResource.Cache
+C:\Users\halfmonty\Documents\Visual Studio 2017\Projects\StayingAlive\StayingAlive\obj\Release\StayingAlive.csproj.CoreCompileInputs.cache
+C:\Users\halfmonty\Documents\Visual Studio 2017\Projects\StayingAlive\StayingAlive\obj\Release\StayingAlive.exe
+C:\Users\halfmonty\Documents\Visual Studio 2017\Projects\StayingAlive\StayingAlive\obj\Release\StayingAlive.pdb
+C:\Users\halfmonty\Documents\Visual Studio 2017\Projects\StayingAlive\StayingAlive\obj\Release\StayingAlive.csprojResolveAssemblyReference.cache
